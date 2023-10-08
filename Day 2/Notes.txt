@@ -1,0 +1,13 @@
+Data types
+
+#Strings
+print("Hello"[0])
+print("123"[1])
+
+#Integers
+print(12231+8972)
+123_345_262=123,345,262 used for human understanding
+
+#Boolean
+True
+False 
